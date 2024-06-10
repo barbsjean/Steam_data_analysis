@@ -9,8 +9,11 @@
 
 * publishers and developers that had the most games with the most positive reviews... same with the negative reviews
 	* the differences in between pos and neg, who had the biggest gap in between... who had about the same...
-* most owners fall into the 0 .. 20,000 range, why? compare that to game play
+* most games fall into the 0 .. 20,000 owner range, why? compare that to game play
 * free-to-play games... are there any trends with free games and owners? avg playtime?
+
+
+I wanted to look at the publishers and developers to see if there was any trends with these and the pricing of games. 
 
 
 
@@ -90,4 +93,58 @@ B. top rated games by Metacritic, number of players, and what were their platfor
 
 ** How many games are owned, never played (CCU)? 
 ** How many games have less than an hour of actual playtime?
+
+
+
+============================ RANDOM NOTES AS I GO ALONG ============================
+
+-- there are over 48,000 games with less than 20,000 owners, but they have the highest total averaged lifetime play. Why???
+	* maybe because there is more games downloaded than the other categories making the 
+	total numbers of minutes greater than the other groups.
+	* more games means more mintues played on average regardless of how LONG they played
+	the game for.
+
+-- When I pulled this data, it was Memorial Day weekend! So a lot more people could have been online due to being off for the holiday, at least in the US. This data will be a bit obscured due to that but instead of running 73 API's again at a different time, we can take this data and use it as a means to see what Steam is like on a holiday weekend. I may pull API data for certain games...
+
+-- maybe code to find games that have sequels? Like Alien Swarm and Alien Swarm: Reactive Drop
+
+-- after Steam Replayability Sale: how many games have retained players?
+
+-- Games pulled from Steam (featured on front page of Endlessly Replayable)
+	Hades 2
+	Hades
+	Balatro
+	Rabbit and Steel
+	Noita
+	Lethal Company
+	Vampire Survivors
+	Risk of Rain 2
+	The Binding of Isaac: Rebirth
+	The Binding of Isaac: Repentence
+	Inscrytpion
+	Manor Lords
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
