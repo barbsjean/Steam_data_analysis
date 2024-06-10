@@ -1,3 +1,5 @@
+Dates of initial API calls: 5/13/2024 - 5/26/2024
+
 ============================  THE QUESTIONS  ============================  
 
 
@@ -14,6 +16,11 @@
 
 
 I wanted to look at the publishers and developers to see if there was any trends with these and the pricing of games. 
+
+
+1.	What are the games with the most positive reviews that are free-to-play and non-free? Top developers/publishers amongst those? Top genres? What is the pricing amongst the non-free-to-play games? (I am going to filter for games with at least 500,000 positive reviews for both free and non-free.)
+*** maybe people that pay money are more apt to leave reviews... 
+*** ratio between pos reviews and paid for games and pos reviews and free games, also the same with negative reviews.
 
 
 
