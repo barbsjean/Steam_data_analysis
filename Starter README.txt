@@ -1,10 +1,20 @@
 Dates of initial API calls: 5/13/2024 - 5/26/2024
 
+*** i feel like the most important thing you can say about a game is how often it is played. It may have a lot of reviews sure... but how many hours you put into a game speaks volumes about said game. maybe i should focus my main analyis on the avg playtime in the last 2 weeks(maybe lifetime) because THAT to me would be the most important thing about a game.
+
+*** to go along with the above comment... to "own" the game on Steam is important to the analysis and that is what the top_100_2_weeks/forever is ranked by and the top 100 forever is bascially the same as top_100_owned. So steamspy is going off of OWNED games at the measure for best games. I agree to an extent. I feel like the positive reviews AND the mins of playtime are ultimately important. From a business standpoint, the game being bought is most important. However, wouldn't you also want your game to be played as well? Not just owned?
+
+*** notice a change in reviews in Team Fortress... there is a tag going on social media #FixTF2. [save.tf]
+
 ============================  THE QUESTIONS  ============================  
 
 
-1.	How many games offer both keyboard and controller support? Are there different genres of games that seem to support more of one than the other?
-2.	What are the top-rated games through the Steam library that have multiple supported languages? How many total players have played the games through the years and what were their platform availabilities? 
+1.	Which games had the most owners with the most positive reviews? What genres and game tags were most popular amongst them? Was pricing a factor? How about languages?
+
+2.	Of those top games, what was the average playtime in the last 2 weeks? Is there a correlation between top games and average playtime in a 2 week period?
+
+3.	Can sale events on Steam effect review count? How about social media?
+
 
 
 - other questions to consider with the new api stuff
@@ -18,7 +28,7 @@ Dates of initial API calls: 5/13/2024 - 5/26/2024
 I wanted to look at the publishers and developers to see if there was any trends with these and the pricing of games. 
 
 
-1.	What are the games with the most positive reviews that are free-to-play and non-free? Top developers/publishers amongst those? Top genres? What is the pricing amongst the non-free-to-play games? (I am going to filter for games with at least 500,000 positive reviews for both free and non-free.)
+1.	What are the games with the most positive reviews that are free-to-play and pay-to-play? Top developers/publishers amongst those? Top genres? What is the pricing amongst the non-free-to-play games? (I am going to filter for games with at least 500,000 positive reviews for both free and non-free.)
 *** maybe people that pay money are more apt to leave reviews... 
 *** ratio between pos reviews and paid for games and pos reviews and free games, also the same with negative reviews.
 
