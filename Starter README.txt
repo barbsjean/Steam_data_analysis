@@ -6,10 +6,12 @@ Dates of initial API calls: 5/13/2024 - 5/26/2024
 
 *** notice a change in reviews in Team Fortress... there is a tag going on social media #FixTF2. [save.tf]
 
+*** why is the 2mil - 5 mil owner bucket have the most positive reviews with only 391 games?
+
 ============================  THE QUESTIONS  ============================  
 
 
-1.	Which games had the most owners with the most positive reviews? What genres and game tags were most popular amongst them? Was pricing a factor? How about languages?
+1.	Which games had the most positive reviews and any trends among ownership? What genres and game tags were most popular amongst them? Was pricing a factor? How about languages?
 
 2.	Of those top games, what was the average playtime in the last 2 weeks? Is there a correlation between top games and average playtime in a 2 week period?
 
