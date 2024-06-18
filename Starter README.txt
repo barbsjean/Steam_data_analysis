@@ -148,7 +148,9 @@ B. top rated games by Metacritic, number of players, and what were their platfor
 	Manor Lords
 
 
+RESOURCES:
 
+https://store.steampowered.com/news/app/304930?updates=true&emclan=103582791435641360&emgid=4183359634549047620  - Unturned had an update around the time I pulled my data
 
 
 
