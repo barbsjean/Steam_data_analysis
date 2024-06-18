@@ -7,6 +7,10 @@ Dates of initial API calls: 5/13/2024 - 5/26/2024
 *** notice a change in reviews in Team Fortress... there is a tag going on social media #FixTF2. [save.tf]
 
 *** why is the 2mil - 5 mil owner bucket have the most positive reviews with only 391 games?
+			 get a percentage postitive + negative and *100 to get percentage on each game - on average for the whole bucket
+
+
+*** the total amount of owners vs the total number of reviews... looking at the number of owners vs their review total
 
 ============================  THE QUESTIONS  ============================  
 
