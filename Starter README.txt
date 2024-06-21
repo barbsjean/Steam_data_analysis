@@ -17,11 +17,13 @@ Dates of initial API calls: 5/13/2024 - 5/26/2024
 ============================  THE QUESTIONS  ============================  
 
 
-1.	Which games had the most positive reviews and any trends among ownership? What genres and game tags were most popular amongst them? Was pricing a factor? How about languages?
+1. Which games had the most positive reviews and any trends among ownership? What genres and game tags were most popular amongst them? Was pricing a factor? How about languages?
 
-2.	Of those top games, what was the average playtime in the last 2 weeks? Is there a correlation between top games and average playtime in a 2 week period?
 
-3.	Can sale events on Steam effect review count? How about social media?
+2. Of those top games, what was the average playtime in the last 2 weeks? Is there a coorelation between top games and average playtime in a 2 week period?
+
+
+3. Can sale events on Steam affect review count? How about social media?
 
 
 
