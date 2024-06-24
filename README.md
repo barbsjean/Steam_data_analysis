@@ -7,9 +7,15 @@ _My Capstone project for the Data Analytics Cohort #11 at Nashville Software Sch
 
 ## I decided to do my Capstone on data I acquired from the pc-gaming platform, Steam.
 
+### My What, Why, and How
+
 ### What exactly is Steam?
 
 Steam was first launched in the Fall of 2003 by Valve Coroporation as a way to automatically provide game updates for its games at the time. By November of 2004, they released their first game for digital download. By 2005, they had multiple third-party developers releasing their games on Steam's playform. Now they are the definitve pc-gaming platform!
+
+### Why did I decide on this kind of data?
+
+Simply put, I love to video game! It's one of my main hobbies and a way for me to unwind, recharge and relax. Another reason was to some behind-the-scenes data that helps make up the platform. I also thought it may be useful to a developer or publisher as a way for them to see the truth in their games behind the data.
 
 ### How did I extract all this data?
 
@@ -22,10 +28,6 @@ I used the following technologies:
 * Python - imported all csv's directly into a Python Jupyter notebook for viewing
 * Tableau - what I used to create my presentation and dashboards of my data
 
-### Why did I decide on this kind of data?
-
-Simply put, I love to video game! It's one of my main hobbies and a way for me to unwind, recharge and relax. Another reason was to some behind-the-scenes data that helps make up the platform. I also thought it may be useful to a developer or publisher as a way for them to see the truth in their games behind the data.
-
 ## My Analyis
 
 What I wanted to find was the following:
@@ -34,10 +36,23 @@ What I wanted to find was the following:
 
 2. Can social media affect review count over time?
 
+## My Resources
+
+* https://steamspy.com/
+* https://steamspy.com/api.php
+* https://www.pcgamer.com/steam-versions/
+* https://www.gamespot.com/articles/valve-vs-vivendi-universal-dogfight-heats-up-in-us-district-court/1100-6107712/
+
 ## My Findings
 
-From the data I was able to pull, I found the following:
+The top free-to-play game with the most positive reviews was Counter Strike Global Offensive 
 
-![image](https://github.com/barbsjean/Steam_data_analysis/assets/156152785/8772dc99-c250-4899-a901-1e63a645cabb)
+The top pay-to-play game with the most positive reviews was Grand Theft Auto 5.
 
+The top Developer was CAPCOM and the top publisher was Electronic Arts, both based on total positive reviews.
 
+The top owner bucket based on percentage of overall positive reviews was 20 to 50 million owners.
+
+The top free-to-play game in that bucket was Unturned. 
+
+The top pay-to-play game in the bucket was Stardew Valley.
