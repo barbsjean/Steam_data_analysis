@@ -22,8 +22,6 @@ I used the following technologies:
 * Python - imported all csv's directly into a Python Jupyter notebook for viewing
 * Tableau - what I used to create my presentation and dashboards of my data
 
-From the data I pulled there was over 70,000 active games, a total of over 80,000 developers and publishers tied to those games, and over 125 reviews submitted by Steam players. 
-
 ### Why did I decide on this kind of data?
 
 Simply put, I love to video game! It's one of my main hobbies and a way for me to unwind, recharge and relax. Another reason was to some behind-the-scenes data that helps make up the platform. I also thought it may be useful to a developer or publisher as a way for them to see the truth in their games behind the data.
@@ -37,3 +35,9 @@ What I wanted to find was the following:
 2. Can social media affect review count over time?
 
 ## My Findings
+
+From the data I was able to pull, I found the following:
+
+![image](https://github.com/barbsjean/Steam_data_analysis/assets/156152785/8772dc99-c250-4899-a901-1e63a645cabb)
+
+
