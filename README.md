@@ -1,4 +1,4 @@
-![alt text]([http://url/to/img.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Steam_2016_logo_black.svg/2560px-Steam_2016_logo_black.svg.png))
+[alt text]([http://url/to/img.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Steam_2016_logo_black.svg/2560px-Steam_2016_logo_black.svg.png))
 
 # Steam Data Analysis
 
