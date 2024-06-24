@@ -1,4 +1,5 @@
-[alt text]([http://url/to/img.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Steam_2016_logo_black.svg/2560px-Steam_2016_logo_black.svg.png))
+![image](https://github.com/barbsjean/Steam_data_analysis/assets/156152785/c16f120c-b76c-4ad1-a9cb-9cb0ae60c867)
+
 
 # Steam Data Analysis
 
