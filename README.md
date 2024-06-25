@@ -33,7 +33,7 @@ I used the following technologies:
 
 What I wanted to find was the following:
 
-1. what are the top games that are in the Steam database based on positive reviews from its players? Are there any trends associated with these games? What are the different gamer tags, genres, and supported languages associated with these games?
+1. What are the top games that are in the Steam database based on positive reviews from its players? Are there any trends associated with these games? What are the different gamer tags, genres, and supported languages associated with these games?
 
 2. Can social media affect review count over time?
 
