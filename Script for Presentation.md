@@ -46,17 +46,17 @@ The Developer and Publisher charts overall looked similar with a few outliers he
 
 Also to keep something in mind, 67.5% of games are developed and published by the same company where as 32.5% have differing developers and publishers. This dashboard reflects that as well!
 
-[click on COUNTERSTRIKE POS REVIEWS to show it interacting] - [unclick POS REVIEW]
+[click on COUNTERSTRIKE POS REVIEWS to show it interacting] - as you can see, this shows the 7 mil positive reviews with over a million negative reviews and how it has the same Developer and Publisher VALVE - [unclick POS REVIEW]
 
-[click on Grand Theft Auto 5 POS REVIEWS, bottom blue dot] - [unclick POS REVIEW]
+HOVER OVER GTA TO SHOW POSITIVE REVIEWS
 
-[click on HIGHEST dot on POS REVIEW BY DEVELOPER] - [pops up all the games]
+Alternatively you can interact with the scatters on the bottom to see the games for each catergory. [click TOP BLUE DOT CHOICE OF GAMES] as you can see it showing that this developer also publishes it's own games and has nothing but pay to play games while [click TOP PINK DOT BIG FISH] Big Fish games has both multiple developers and games that are pay to play AND free to play.
 
 ----------------------------------------------------------------------------------------------
 
 DEV/PUB INFO:
 
-Next we are going to dive deeper into the Developers and Publishers for the Steam database. I decided to focus on the top 5 for this dashboard. The top 5 was based on the total number of positive reviews for each Developer and Publisher.
+Next we are going to dive deeper into the Developers and Publishers for the Steam database. I decided to focus on the top 5 for this dashboard. The top 5 was based on the total number of positive reviews for each Developer and Publisher. This one is made to be interactive, lemme show you!
 
 The bar charts are showing the average price in each owner bucket per Dev or Publisher.
 
@@ -65,6 +65,8 @@ The pie charts are breaking down the total game play for each dev and publisher 
 [click on YELLOW BUCKET 2ND FROM TOP] - on average games developed by CAPCOM that have between 2 Million and 5 Million owners have an average game price of $33, have played over 2,000 mins and over 41,000 players were online at the same time playing their games. [unclock YELLOW BUCKET ON GRAPH]
 
 [click on SAME YELLOW BUCKET 3RD FROM TOP] - looking at the same owner bucket we see that games published by Electronic Arts have an average of $23 in game price, have played over 2,000 mils but had almost 100,000 players online at the same time playing their games. [unclick YELLOW BUCKET or click on heading...]
+
+Now, you can choose to pick an owner bucket as well. If we were to look at data from the games that had 50 THOUSAND TO 100 THOUSAND, you can see how it interacts along with each top 5 developer and publisher.
 
 ----------------------------------------------------------------------------------------------
 
