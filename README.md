@@ -46,17 +46,8 @@ What I wanted to find was the following:
 
 ### My Findings
 
-The top free-to-play game with the most positive reviews was Counter Strike Global Offensive 
+![image](https://github.com/barbsjean/Steam_data_analysis/assets/156152785/3d5dd34d-c161-4652-ba3e-54360553ddeb)
 
-The top pay-to-play game with the most positive reviews was Grand Theft Auto 5.
-
-The top Developer was CAPCOM and the top publisher was Electronic Arts, both based on total positive reviews.
-
-The top owner bucket based on percentage of overall positive reviews was 20 to 50 million owners.
-
-The top free-to-play game in that bucket was Unturned. 
-
-The top pay-to-play game in the bucket was Stardew Valley.
 
 ### My Work
 
